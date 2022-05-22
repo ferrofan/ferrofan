@@ -12,8 +12,7 @@ Education:\
 · MEng Metallurgical and Materials Engineering Polytechnique School of the University of São Paulo\
 ####################\
 Honors-Awards:\
-· Best Student n Materials Engineering Mackenzie University Engineering and Architeture Regional Council - São Paulo jun 2016 Awarded as the best \
-engineering student of materials engineering of 2016 at Mackenzie Presbyterian University. 9.0/10 GPA.\
+· Best Student n Materials Engineering Mackenzie University Engineering and Architeture Regional Council - São Paulo jun 2016 - Awarded as the best engineering student \ of materials engineering of 2016 at Mackenzie Presbyterian University. 9.0/10 GPA.\ 
 · Gradution Dissertation Prize - Professor Professor Master Affonso Sérgio Fambrini\
 First place on the Engineering graduation dissertation prize - Professor Master Affonso Sérgio Fambrini - in Materials Engineering on the \
 Ceramic Materials area with the dissertation "Lead Zirconate Titanate Obtained by Pechini Method” published as the paper named \
