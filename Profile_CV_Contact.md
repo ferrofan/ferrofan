@@ -22,5 +22,5 @@ Ceramic Materials area with the dissertation "Lead Zirconate Titanate Obtained b
 How to reach me:\
 If you want to give me feedback about my codes or hire me as a dev or get in touch with me for any kind of business purposes, kindly use the following e-mail:\
 ferrofan@protonmail.com\
-I'll be happy to give any needed corroborative documentss to prove all the info provided on my profile, specially concerning education and honors-awards sections - by \
+I'll be happy to give any needed corroborative documents to prove all the info provided on my profile, specially concerning education and honors-awards sections - by \
 showing my diplomas and certificates.\
