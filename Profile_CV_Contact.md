@@ -12,7 +12,7 @@ Education:\
 · MEng Metallurgical and Materials Engineering Polytechnique School of the University of São Paulo\
 ####################\
 Honors-Awards:\
-· Best Student in BEng Materials Engineering Mackenzie University Engineering and Architecture Regional Council - São Paulo jun 2016 - Awarded as the best engineering \
+· Best Student in BEng Materials Engineering Mackenzie University - Engineering and Architecture Regional Council São Paulo jun 2016 - Awarded as the best engineering \
 student of materials engineering of 2016 at Mackenzie University (3.5/4.0 GPA).\
 · Gradution Dissertation Prize - Professor Professor Master Affonso Sérgio Fambrini\
 First place on the Engineering graduation dissertation prize - Professor Master Affonso Sérgio Fambrini - in Materials Engineering on the \
