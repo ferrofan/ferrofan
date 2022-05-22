@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @ferrofan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ferrofan/ferrofan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 Who I am:
 A random otaku, fanfiction writer fujoshi, white hat hacker and crypto enthusiast who enjoys creating NFTs to make the world a happier place.
 ####################
