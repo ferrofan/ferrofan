@@ -16,11 +16,10 @@ Honors-Awards:\
 student of materials engineering of 2016 at Mackenzie Presbyterian University. 9.0/10 GPA.\
 · Gradution Dissertation Prize - Professor Professor Master Affonso Sérgio Fambrini\
 First place on the Engineering graduation dissertation prize - Professor Master Affonso Sérgio Fambrini - in Materials Engineering on the \
-Ceramic Materials area with the dissertation "Lead Zirconate Titanate Obtained by Pechini Method” published as the paper named \
-“Preparation and Characterization of Pb(Zr,Ti)O3 Obtained by the Pechini Method” on "Materials Science Forum" vol. 912.\
+Ceramic Materials area with the dissertation "Lead Zirconate Titanate Obtained by Pechini Method” published as a paper on "Materials Science Forum" vol. 912.\
 ####################\
 How to reach me:\
 If you want to give me feedback about my codes or hire me as a dev or get in touch with me for any kind of business purposes, kindly use the following e-mail:\
 ferrofan@protonmail.com\
 I'll be happy to give any needed corroborative documents to prove all the info provided on my profile, specially concerning education and honors-awards sections - by \
-showing my diplomas and certificates.\
+showing my diplomas and certificates.
