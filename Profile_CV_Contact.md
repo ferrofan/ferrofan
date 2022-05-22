@@ -2,10 +2,10 @@ Who I am:
 A random otaku, fanfiction writer fujoshi, white hat hacker and crypto enthusiast who enjoys creating NFTs to make the world a happier place.
 ####################
 Skills:
-Python
-Javascript
-HTML5
-CSS
+· Python
+· Javascript
+· HTML5
+· CSS
 ####################
 Education:
 · BEng Materials Engineering Mackenzie University
